@@ -1,0 +1,5 @@
+using SentinelKey.Contracts.Enrollment;
+
+namespace SentinelKey.Application.Enrollment.CreateEnrollmentSession;
+
+public sealed record CreateEnrollmentSessionResult(EnrollmentSessionResponse EnrollmentSession);

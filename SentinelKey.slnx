@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SentinelKey.Api/SentinelKey.Api.csproj" />
+  <Project Path="SentinelKey.Application/SentinelKey.Application.csproj" />
+  <Project Path="SentinelKey.Contracts/SentinelKey.Contracts.csproj" />
+  <Project Path="SentinelKey.Domain/SentinelKey.Domain.csproj" />
+  <Project Path="SentinelKey.Infrastructure/SentinelKey.Infrastructure.csproj" />
+  <Project Path="SentinelKey.Tests/SentinelKey.Tests.csproj" />
+</Solution>

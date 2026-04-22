@@ -1,0 +1,5 @@
+using SentinelKey.Contracts.Transactions;
+
+namespace SentinelKey.Application.Transactions.CreateTransactionChallenge;
+
+public sealed record CreateTransactionChallengeResult(TransactionChallengeResponse Challenge);
